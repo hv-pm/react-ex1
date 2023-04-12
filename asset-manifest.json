@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-ex1/static/css/main.5c5daac7.css",
+    "main.js": "/react-ex1/static/js/main.fdcfe50d.js",
+    "static/media/dog.svg": "/react-ex1/static/media/dog.70df56096fa41df9d7cc64fb46b40933.svg",
+    "static/media/cat.svg": "/react-ex1/static/media/cat.a5ff6c61483cb1b6f176ebe2f042b359.svg",
+    "static/media/gator.svg": "/react-ex1/static/media/gator.9035accbd534fc488eb1fb531c9e767b.svg",
+    "static/media/cow.svg": "/react-ex1/static/media/cow.2ba95a5dd2ad78adf6461230fab8cd8b.svg",
+    "static/media/bird.svg": "/react-ex1/static/media/bird.21eb7d80a2dc24f34cd6936a07813ff3.svg",
+    "static/media/horse.svg": "/react-ex1/static/media/horse.305d0410efa0b614518efa805890c6bc.svg",
+    "static/media/heart.svg": "/react-ex1/static/media/heart.286db198ed3962d7ec4724276f411c63.svg",
+    "index.html": "/react-ex1/index.html",
+    "main.5c5daac7.css.map": "/react-ex1/static/css/main.5c5daac7.css.map",
+    "main.fdcfe50d.js.map": "/react-ex1/static/js/main.fdcfe50d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c5daac7.css",
+    "static/js/main.fdcfe50d.js"
+  ]
+}
